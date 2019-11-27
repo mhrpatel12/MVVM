@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vehicle Listing</string>
+    <string name="error_loading_vehicle">There seems to have been some error.</string>
+    <string name="default_loading_vehicle">.</string>
+    <string name="text_interior">Interior:</string>
+    <string name="text_exterior">Exterior:</string>
+    <string name="text_address">Address:</string>
+    <string name="text_engine_type">Engine Type:</string>
+    <string name="text_fuel">Fuel:</string>
+    <string name="dummy_date">27 July, 2019</string>
+    <string name="default_lat_long">fetching location . . .</string>
+</resources>
